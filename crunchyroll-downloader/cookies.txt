@@ -1,0 +1,2 @@
+# Netscape HTTP Cookie File
+.crunchyroll.com	TRUE	/	FALSE	0	session_id	[REPLACE_ME_WITH_A_VALID_SESSION_ID]
